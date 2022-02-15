@@ -10,7 +10,7 @@ i'm a novice programmer who still want to learn more and more. I'm a diligent an
  <li>🔭 I’m currently studying on SMK Telkom Malang</li>
  <li>🌱 I’m currently learning Frontend Web Development</li>
  <li>💬 Ask me about anything you want to know</li>
- <li>📫 How to reach me: [email](mailto:revaniasabita0@gmail.com) </li>
+ <li>📫 How to reach me:, [email](mailto:revaniasabita0@gmail.com) </li>
 </ul>
 
 ### Languages and Tools:
