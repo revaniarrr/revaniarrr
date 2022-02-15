@@ -12,23 +12,21 @@ i'm a novice programmer who still want to learn more and more. I'm a diligent an
  <li>💬 Ask me about anything you want to know</li>
  <li>📫 How to reach me: [email](mailto:revaniasabita0@gmail.com) </li>
 </ul>
-
-### 🛠 Languages and Tools:
-
-![](https://img.shields.io/badge/-NPM-red?logo=NPM&style=flat-square)
-![](https://img.shields.io/badge/-Nodemon-green?logo=Nodemon&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-Node.js-darkgreen?logo=Node.js&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-Mysql-blue?logo=Mysql&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-Github-blue?logo=Github&logoColor=white&style=flat-square)<br/>
-![](https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-React.js-blue?logo=React&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/-Javascript-orange?logo=Javascript&logoColor=white&style=flat-square)
   
 ### 🎏 GitHub Stats:
 
 ![Revania's GitHub stats](https://github-readme-stats.vercel.app/api?username=revaniarrr&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaniarrr&layout=compact&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats)
+
+### 🛠 Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
 
 ### Connect With Me:
 
