@@ -28,9 +28,9 @@ i'm a novice programmer who still want to learn more and more. I'm a diligent an
   
 ### 🎏 GitHub Stats:
 
-![Revania's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandaha29&show_icons=true&theme=radical)
+![Revania's GitHub stats](https://github-readme-stats.vercel.app/api?username=revaniarrr&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaha29&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaha29&layout=compact&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaniarrr&layout=compact&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats)
 
 ### Connect With Me:
 
