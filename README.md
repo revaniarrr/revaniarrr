@@ -30,6 +30,7 @@ i'm a novice programmer who still want to learn more and more. I'm a diligent an
 
 ### Connect With Me:
 
+[![](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white&style=for-the-badge)](https://www.github.com/revaniarrr)
 [![](https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/revaniar_/)
 [![](https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/revania-sabita-raharja-884300230)
 
