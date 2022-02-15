@@ -24,12 +24,10 @@ i'm a novice programmer who still want to learn more and more. I'm a diligent an
 ![](https://img.shields.io/badge/-Git-red?logo=Git&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-React.js-blue?logo=React&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/-Javascript-orange?logo=Javascript&logoColor=white&style=flat-square)
-<!-- React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs -->
   
 ### 🎏 GitHub Stats:
 
 ![Revania's GitHub stats](https://github-readme-stats.vercel.app/api?username=revaniarrr&show_icons=true&theme=radical)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandaha29&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaniarrr&layout=compact&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats)
 
 ### Connect With Me:
