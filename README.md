@@ -4,7 +4,8 @@ Welcome to my place to Working On!<br/>
 I'm Revania Sabita Raharja,
 Junior Front-End developer from Pandaan, Indonesian.
 
-i'm a novice programmer who still want to learn more and more. I'm a diligent and disciplined person in doing something that I'm working on
+i'm a novice programmer who still want to learn more and more. I'm a diligent and disciplined person in doing something that I'm working on.
+I can work as team or individually well.
 
 - 🔭 I’m currently studying on SMK Telkom Malang
 - 🌱 I’m currently learning Frontend Web Development
