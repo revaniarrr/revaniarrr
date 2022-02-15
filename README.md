@@ -12,11 +12,6 @@ i'm a novice programmer who still want to learn more and more. I'm a diligent an
  <li>💬 Ask me about anything you want to know</li>
  <li>📫 How to reach me: [email](mailto:revaniasabita0@gmail.com) </li>
 </ul>
-  
-### 🎏 GitHub Stats:
-
-![Revania's GitHub stats](https://github-readme-stats.vercel.app/api?username=revaniarrr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaniarrr&layout=compact&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats)
 
 ### 🛠 Languages and Tools:
 
@@ -32,6 +27,12 @@ i'm a novice programmer who still want to learn more and more. I'm a diligent an
 
 [![](https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/revaniar_/)
 [![](https://img.shields.io/badge/-LinkedIn-black?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/revania-sabita-raharja/)
+
+### 🎏 GitHub Stats:
+
+![Revania's GitHub stats](https://github-readme-stats.vercel.app/api?username=revaniarrr&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=revaniarrr&layout=compact&show_icons=true&theme=radical)](https://github.com/nandaha29/github-readme-stats)
+
 <!--
 **revaniarrr/revaniarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
