@@ -2,7 +2,7 @@
 
 Welcome to my place to Working On!<br/>
 I'm Revania Sabita Raharja,
-Junior developer from Pandaan, Indonesian.
+Junior developer from Malang, Indonesian.
 
 i'm a novice programmer who still want to learn more and more. I'm a diligent and disciplined person in doing something that I'm working on.
 I can work as team or individually well.
