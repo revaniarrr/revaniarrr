@@ -7,7 +7,7 @@ Junior developer from Malang, Indonesian.
 i'm a novice programmer who still want to learn more and more. I'm a diligent and disciplined person in doing something that I'm working on.
 I can work as team or individually well.
 
-- 🔭 I’m currently studying on SMK Telkom Malang
+- 🔭 I’m a fresh graduate studying on SMK Telkom Malang
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: [email](mailto:revaniasabita0@gmail.com)
